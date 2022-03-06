@@ -1,0 +1,20 @@
+# editor files
+*.bak
+nv-to-do.txt
+
+# generated
+*.pdb
+*.exe
+
+
+# ignore dirs
+bin/
+dev/
+obj/
+
+
+# Windows detritus
+Thumbs.db
+Desktop.ini
+
+
